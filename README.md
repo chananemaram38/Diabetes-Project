@@ -10,8 +10,9 @@ A brief overview of diabetes, the problems it causes, and possible solutions for
   It occurs either when the **pancreas** does not produce enough *insulin*, or when the body cannot effectively use the insulin it produces.
 
 2. Causes of Diabetes
- 
-    The main causes include:  
+
+   The main causes include:  
+
 - **Genetic predisposition**  
 - **Unhealthy lifestyle** (poor diet, lack of exercise)  
 - **Obesity and being overweight**  
@@ -34,10 +35,13 @@ A brief overview of diabetes, the problems it causes, and possible solutions for
 - Nerve damage  
 - Eye problems that can lead to blindness if untreated
 
-4. Types of Diabetes
+4. Types of Diabetes 
+   - **Type 1 Diabetes**: The immune system destroys insulin-producing cells. Common in children and young adults.  
+   - **Type 2 Diabetes**: The body becomes resistant to insulin, often due to poor lifestyle habits.  
+   - **Gestational Diabetes**: Appears during pregnancy and usually disappears after childbirth.
+
 5. Prevention and Treatment
 6. Conclusion
-
    
 ### Collaborators:
 - Maram Chanane 
