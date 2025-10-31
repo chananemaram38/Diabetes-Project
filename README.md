@@ -5,6 +5,9 @@ A brief overview of diabetes, the problems it causes, and possible solutions for
 
 ### Steps:
 1. Definition of diabetes  
+ 
+ **Diabetes** is a *chronic metabolic disease* in which the body cannot properly regulate blood sugar (*glucose*) levels.  
+  It occurs either when the **pancreas** does not produce enough *insulin*, or when the body cannot effectively use the insulin it produces.
 
 2. Causes of Diabetes
  
