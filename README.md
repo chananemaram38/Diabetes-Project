@@ -8,8 +8,8 @@ A brief overview of diabetes, the problems it causes, and possible solutions for
 2. Causes of Diabetes
  
     The main causes include:  
--** Genetic predisposition**  
--** Unhealthy lifestyle** (poor diet, lack of exercise)  
+- **Genetic predisposition**  
+- **Unhealthy lifestyle** (poor diet, lack of exercise)  
 - **Obesity and being overweight**  
 - **Stress or hormonal imbalance** that affects insulin production  
 
