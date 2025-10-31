@@ -15,3 +15,4 @@ A brief overview of diabetes, the problems it causes, and possible solutions for
 - Maram Chanane 
 - Arwa  Belkasmi
 - Manel Zougari
+- Douaa Zaouali
