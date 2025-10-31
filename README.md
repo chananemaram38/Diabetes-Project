@@ -40,9 +40,21 @@ A brief overview of diabetes, the problems it causes, and possible solutions for
    - **Type 2 Diabetes**: The body becomes resistant to insulin, often due to poor lifestyle habits.  
    - **Gestational Diabetes**: Appears during pregnancy and usually disappears after childbirth.
 
+
 5. Prevention and Treatment
+
+    - Maintain a **healthy diet** and exercise regularly.  
+    - **Monitor blood glucose levels**.  
+    - Avoid excessive **sugar** and processed foods.  
+    - Take **prescribed medication or insulin** if necessary.  
+    - **Manage stress** and get regular medical check-ups.
+
 6. Conclusion
-   
+
+    **Diabetes** is a serious but manageable disease.  
+  With awareness, healthy habits, and regular monitoring, people with diabetes can live normal and healthy lives.  
+  Preventing diabetes is mainly about choosing a **balanced lifestyle** and staying **active**.
+
 ### Collaborators:
 - Maram Chanane 
 - Aroua  Belkasmi
